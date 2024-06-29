@@ -1,0 +1,11 @@
+#mysection{
+  background: url('https://raw.githubusercontent.com/petreleven/lego/main/main.png');
+  background-size:cover;
+  height:400px;
+}
+
+#logo{
+  height:100px;
+  width:200px;
+  padding-left: 100px;
+}
